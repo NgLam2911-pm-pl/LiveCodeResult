@@ -1,0 +1,5 @@
+name: AttackCooldown
+main: NgLam2911\AttackCooldown\AttackCooldown
+src-namespace-prefix: NgLam2911\AttackCooldown
+api: 4.0.0
+version: 0.0.1

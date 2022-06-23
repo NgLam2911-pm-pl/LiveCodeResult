@@ -1,0 +1,6 @@
+name: VeinMiner
+main: NgLam2911\VeinMiner\Loader
+src-namespace-prefix: NgLam2911\VeinMiner
+version: 0.0.1
+author: NgLam2911
+api: 4.0.0
